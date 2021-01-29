@@ -133,6 +133,15 @@ code {
   margin-bottom: 16px;
 }
 
+#hidden {
+  display: none;
+  height: 100px;
+  background: red;
+}
+:checked + #hidden {
+  display: block;
+}
+
 .header {
   margin-bottom: 104px;
 }
@@ -145,10 +154,11 @@ code {
   width: 100%
 }
 
-
+/*
 .footer {
-  margin-top: 224px;
+  
 }
+*/
 
 .footer img {
   height: 104px;

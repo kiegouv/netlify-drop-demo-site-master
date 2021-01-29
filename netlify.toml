@@ -2,6 +2,6 @@
 [build]
     # command = "yarn run build"
     # functions = "functions"
-    publish = "."
+    publish = "dist"
 
 ## more info https://www.netlify.com/docs/netlify-toml-reference
