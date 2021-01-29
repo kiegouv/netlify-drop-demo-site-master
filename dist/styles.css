@@ -137,10 +137,15 @@ code {
   margin-bottom: 104px;
 }
 
-.installation-instructions,
-.usage-instructions {
+.growing-area {
   margin-top: 64px;
 }
+
+.growing-area img {
+  height: 1200px;
+  width: auto;
+}
+
 
 .footer {
   margin-top: 224px;
