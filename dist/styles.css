@@ -136,6 +136,7 @@ code {
 #hidden {
   display: none;
   height: 100px;
+  background: red;
 }
 :checked + #hidden {
   display: block;
