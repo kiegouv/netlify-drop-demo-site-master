@@ -6,7 +6,6 @@ body {
   padding: 0;
   font-family: "Inter UI", sans-serif;
   text-align: center;
-  color: white;
 }
 
 .titan-background {
@@ -136,7 +135,6 @@ code {
 #hidden {
   display: none;
   height: 100px;
-  background: red;
 }
 :checked + #hidden {
   display: block;
