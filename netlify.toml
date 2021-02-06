@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-    # command = "yarn run build"
+    command = "yarn run build" # this is a higher priority command, instead of gui online
     # functions = "functions"
     publish = "dist"
 
